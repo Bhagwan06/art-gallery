@@ -10,8 +10,7 @@ This responsive Art Gallery webpage displays a collection of images with hover e
 
 ## Preview
 
-![Gallery Preview](path-to-preview-image)
-
+https://bhagwan06.github.io/art-gallery/
 ## Getting Started
 
 Follow the instructions below to get a copy of this project up and running on your local machine.
